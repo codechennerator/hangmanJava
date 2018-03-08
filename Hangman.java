@@ -137,6 +137,4 @@ public class Hangman extends ConsoleProgram {
     public String guess = ""; //keeps track of the user's last guess.
     //public BufferedReader rd = null;
     //public ArrayList<String> strList = new ArrayList<String>();
-    /*known glitches:
-     * How to keep track of guesses.*/
 }
